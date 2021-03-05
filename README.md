@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 <br>
 
 ## 🔭 I’m currently working on
-    - a Discord bot. [Link to repo](https://github.com/The-6th-Champion/SlashCommandBotDJS "SlashCommandBotDJS")
-    - another Discord bot. [Invite it to your servers](https://top.gg/780928781858373672/invite). 
-    [Link to repo](https://github.com/The-6th-Champion/lessinsert-bot-heregreater "lessinsert-bot-heregreater")
+    - a Discord bot.
+    - another Discord bot. This is the invite link --> https://top.gg/780928781858373672/invite).
     - a C# + WPF app
     - \[REDACTED\]
 ## 🌱 I’m currently learning how to 
@@ -34,5 +33,5 @@ Here are some ideas to get you started:
 ## 📫 How to reach me:
     1. You don't
     2. Look at number 1
-    3. My [discord server](https://discord.gg/KQpMKS273w "<Insert Server Here>").
+    3. My discord server. (link at the top)
 
