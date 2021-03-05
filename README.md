@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on
     - a Discord bot.
-    - another Discord bot. This is the invite link --> https://top.gg/780928781858373672/invite).
+    - another Discord bot. This is the invite link --> https://top.gg/780928781858373672/invite.
     - a C# + WPF app
     - \[REDACTED\]
 ## 🌱 I’m currently learning how to 
