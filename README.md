@@ -1,5 +1,5 @@
 # Hi there 👋, Im The 6th Champion
-<a href="https://discord.gg/KQpMKS273w"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=%3CInsert%20Server%20Here%3E&color=7289DA" alt="Join Community Badge"/></a><br>
+<a href="https://discord.gg/KQpMKS273w"><img src="https://img.shields.io/discord/764927590070353940.svg?style=flat&label=%3CInsert%20Server%20Here%3E&color=7289DA" alt="Join Community Badge"/></a><br>
 <br><br>
 
 ### I am a programmer and gamer from the USA. My name is {NAME}, but you can call me Champion i guess. I mainly use python, but I know a little Javascript and C#
