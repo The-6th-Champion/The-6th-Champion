@@ -11,6 +11,12 @@ Here are some ideas to get you started:
 <br>
 <br>
 
+## Languages I have used
+    - Python 3
+    - C#
+    - Javascript
+    - Batch
+    - Java
 ## 🔭 I’m currently working on
     - a Discord bot.
     - another Discord bot. This is the invite link --> https://top.gg/780928781858373672/invite.
