@@ -11,8 +11,10 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-6th-champion&langs_count=10&hide=shaderlab,glsl,hlsl&layout=compact&theme=tokyonight&)](https://github.com/The-6th-Champion/github-readme-stats" alt="The-6th-Champion" /></p> 
-## 🔭 I’m currently working on
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-6th-champion&langs_count=10&hide=shaderlab,glsl,hlsl&layout=compact&theme=tokyonight&)](https://github.com/The-6th-Champion/github-readme-stats" alt="The-6th-Champion" /></p>
+
+## 🔭 I’m currently working on:
+
     - stuff
     - i have a couple game ideas i want to do, and just other random things that come to mind
 
