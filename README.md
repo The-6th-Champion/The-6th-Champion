@@ -11,31 +11,16 @@ Here are some ideas to get you started:
 <br>
 <br>
 
-## Languages I have used
-    - Python 3
-    - C#
-    - Javascript
-    - Batch
-    - Java
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-6th-champion&langs_count=10&hide=shaderlab,glsl,hlsl&layout=compact&theme=tokyonight&)](https://github.com/The-6th-Champion/github-readme-stats" alt="The-6th-Champion" /></p> 
 ## 🔭 I’m currently working on
-    - a Discord bot.
-    - another Discord bot. This is the invite link --> https://top.gg/780928781858373672/invite.
-    - a C# + WPF app
-    - \[REDACTED\]
-## 🌱 I’m currently learning how to 
-    - program in Javascript (I am horrible at this)
-        - Node.js (look up)
-        - React.js?
-        - Svelte?
-    - program in C# (not too bad)
-    - make games
-    - making discord bots
-    - making applications
-## 📊 Stats
-    - 6 discord bots
-    - 3 games
-    - one major webpage
-    - not much else
+    - stuff
+    - i have a couple game ideas i want to do, and just other random things that come to mind
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-6th-Champion&count_private=true&theme=tokyonight&show_icons=true&locale=en" alt="The-6th-Champion" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=The-6th-Champion&theme=tokyonight&" alt="The-6th-Champion" /></p>
+
+
 ## 📫 How to reach me:
     1. You don't
     2. Look at number 1
