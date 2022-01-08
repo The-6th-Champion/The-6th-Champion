@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on:
 
-    - stuff
-    - i have a couple game ideas i want to do, and just other random things that come to mind
+    - nothing much
+    - whatever I want to
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-6th-Champion&count_private=true&theme=tokyonight&show_icons=true&locale=en" alt="The-6th-Champion" /></p>
@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to reach me:
-    1. You don't
-    2. Look at number 1
-    3. My discord server. (link at the top)
+    1. Discord Server up top
+    2. yeah thats it i guess
 
