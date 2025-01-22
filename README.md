@@ -1,8 +1,6 @@
-# Hi there 👋, Im The 6th Champion
-<a href="https://discord.gg/KQpMKS273w"><img src="https://img.shields.io/discord/764927590070353940.svg?style=flat&label=%3CInsert%20Server%20Here%3E&color=7289DA" alt="Join Community Badge"/></a><br>
-<br><br>
+# Hi there 👋, Im Sid Shah
 
-### I am a programmer and gamer from the USA. My name is {NAME}, but you can call me Champion i guess. I mainly use python, but I know a little Javascript and C#
+### I am a programmer and mathematics enthusiast from the USA. My name is Sid! I mainly use Python, for code, but have experience with React Native, Svelte, and Unity Programming.
 <!--
 **The-6th-Champion/The-6th-Champion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 <!--
@@ -10,13 +8,9 @@ Here are some ideas to get you started:
 -->
 <br>
 <br>
+I have interests in Robotics, Applied Mathematics, Aerodynamics, and Formula One Racecar engineering.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-6th-champion&langs_count=10&hide=shaderlab,glsl,hlsl&layout=compact&theme=tokyonight&)](https://github.com/The-6th-Champion/github-readme-stats" alt="The-6th-Champion" /></p>
-
-## 🔭 I’m currently working on:
-
-    - nothing much
-    - whatever I want to
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-6th-Champion&count_private=true&theme=tokyonight&show_icons=true&locale=en" alt="The-6th-Champion" /></p>
@@ -24,6 +18,5 @@ Here are some ideas to get you started:
 
 
 ## 📫 How to reach me:
-    1. Discord Server up top
-    2. yeah thats it i guess
+    1. sidms@berkeley.edu
 
